@@ -1,0 +1,19 @@
+{
+  "name": "googleify",
+  "version": "1.0.0",
+  "description": "Prints string with Google's colors",
+  "main": "googleify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleypaul/googleify.git"
+  },
+  "author": "Paul Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradleypaul/googleify/issues"
+  },
+  "homepage": "https://github.com/bradleypaul/googleify#readme"
+}
